@@ -1,4 +1,6 @@
-# Snake Game — DE1-SoC FPGA (Verilog)
+# Snake Game- DE1-SoC FPGA (Verilog)
+
+https://drive.google.com/file/d/1OETR3FqV_p7EBg72Iw_QtsvPeTP7TrUt/view
 
 A fully playable Snake game implemented in Verilog and deployed on the 
 DE1-SoC FPGA, featuring a custom VGA display controller, PS/2 keyboard 
